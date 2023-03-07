@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Hrishabh👋</h1>
 
 <h3 align="center">ML Engineer</h3>
-<!--
-**CHEONMA1/CHEONMA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on ML Project
 - 🌱 I’m currently learning Python & Image Processing

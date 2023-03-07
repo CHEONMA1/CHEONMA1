@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Hrishabh👋</h1>
 
-<h3 align="center">ML Engineer</h3>
+<h3 align="center">An ML Engineer</h3>
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on ML Project
+- 🔭 I’m currently working on an ML Project
 - 🌱 I’m currently learning Python & Image Processing
 - 💬 Ask me about HTML & Python
 - 📫 How to reach me: 010hrishabh@gmail.com
